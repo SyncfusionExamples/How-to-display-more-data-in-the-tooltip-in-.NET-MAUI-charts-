@@ -39,6 +39,6 @@ Here, it displays both a country’s name and population details in the tooltip.
 
 ## Output:
 
-![Tooltip with more data in MAUI chart]()
+![Tooltip with more data in MAUI chart](MAUI_Chart_Tooltip_Mutiple_Values.gif)
 
 KB article - [How to display more data in the tooltip in MAUI charts?]()
