@@ -1,4 +1,4 @@
-# How to display more data in the tooltip in .NET MAUI chart(SfCartesianChart)
+# How to display more data in the tooltip in .NET MAUI Chart (SfCartesianChart)
 
 [.NET MAUI Chart](https://www.syncfusion.com/maui-controls/maui-charts) provides the support to display the needed information from its model of populated items source along with Tooltip UI customization with the help of [TooltipTemplate](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.Charts.ChartSeries.html#Syncfusion_Maui_Charts_ChartSeries_TooltipTemplate) in the chart series, as shown in the following code example. 
 
@@ -43,4 +43,4 @@ Here, it displays both a country’s name and population details in the tooltip.
 
 ![Tooltip with more data in MAUI chart](MAUI_Chart_Tooltip_Mutiple_Values.gif)
 
-KB article - [How to display more data in the tooltip in MAUI chart?](https://www.syncfusion.com/kb/13663/how-to-display-more-data-in-the-tooltip-in-maui-chart-sfcartesianchart)
+KB article - [How to display more data in the tooltip in MAUI Chart (SfCartesianChart)?](https://www.syncfusion.com/kb/13663/how-to-display-more-data-in-the-tooltip-in-maui-chart-sfcartesianchart)
