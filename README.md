@@ -43,4 +43,4 @@ Here, it displays both a country’s name and population details in the tooltip.
 
 ![Tooltip with more data in MAUI chart](MAUI_Chart_Tooltip_Mutiple_Values.gif)
 
-KB article - [How to display more data in the tooltip in MAUI charts?]()
+KB article - [How to display more data in the tooltip in MAUI Chart (SfCartesianChart)?](https://www.syncfusion.com/kb/13663/how-to-display-more-data-in-the-tooltip-in-maui-chart-sfcartesianchart)
