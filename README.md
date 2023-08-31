@@ -4,6 +4,8 @@
 
 Here, it displays both a country’s name and population details in the tooltip. By default, it displays the corresponding y-axis value of that segment.
 
+**XAML**
+
 ```
 <chart:SfCartesianChart>
     <chart:SfCartesianChart.BindingContext>
